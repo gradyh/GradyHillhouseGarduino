@@ -1,2 +1,1 @@
-# GradyGarduino
-Arduino Garden Controller and Data Logger
+Please see the project wiki on github at the link below for more information.
