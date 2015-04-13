@@ -1,1 +1,1 @@
-Please see the project wiki on github at the link below for more information.
+Please see the project wiki on github for more information.
